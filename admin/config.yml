@@ -1,10 +1,10 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-
+ 
   
 # These lines should *not* be indented
-media_folder: "_site/images/uploads"
+media_folder: "C:\Users\usman\Documents\eleventy-base-blog\_site\images\uploads\blog-img.jpg"
 public_folder: "/images/uploads"
 
 collections:
